@@ -29,5 +29,5 @@ var minHeight = 0;//good
 				var height = column.getHeight();
 				
 				if(height > minHeight){
-					minHeight = height;
+					minHeight = height;//helo guys
 				}
