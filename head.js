@@ -15,7 +15,7 @@ if(before){
 			}
 		}
 
-var minHeight = 0;
+var minHeight = 0;//good
 		
 		if(!this.redrawBlock){
 
